@@ -390,7 +390,8 @@
     '战斗部',
     '蚁民',
     '戴上皇冠',
-    '王冠一'
+    '王冠一',
+    '疫情&&破产'
     ];
 var dataVersion = '20200416（'+wordsArray.length+')';
 document.getElementById('version').innerHTML+= dataVersion;
