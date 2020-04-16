@@ -427,7 +427,7 @@ function run() //检测敏感词
     if (userWords == '') return;
 
     //带符号和emoji的特殊词
-    var specialWords = ['+1s','±1', '🐻', '🐸', '🌾', '大🐰', '大🐇', '👓'];
+    var specialWords = ['+1s','5±1', '🐻', '🐸', '🌾', '大🐰', '大🐇', '👓'];
     for (i in specialWords)
     {
         if (userWords.includes(specialWords[i])) 
