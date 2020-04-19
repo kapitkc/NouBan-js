@@ -418,7 +418,8 @@ var wordsArray = [
     '黎智英',
     '黄之锋',
     '网信办',
-    '如果我不交代谣言就永远没完'
+    '如果我不交代谣言就永远没完',
+    '常凯'
 ];
 var dataVersion = '20200419（' + wordsArray.length + '）';
 document.getElementById('version').innerHTML += dataVersion;
