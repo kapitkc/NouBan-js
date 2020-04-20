@@ -423,7 +423,8 @@ var wordsArray = [
     '常凯',
     '中国梦',
     '韭国',
-    '韭菜国'
+    '韭菜国',
+    '一言堂'
 ];
 var dataVersion = '20200420（' + wordsArray.length + '）';
 document.getElementById('version').innerHTML += dataVersion;
