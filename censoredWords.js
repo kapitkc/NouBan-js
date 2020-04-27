@@ -478,6 +478,8 @@ var wordsArray = [
     '千人计划',
     '习总',
     'xi总',
-    '习和平'
+    '习和平',
+    '李二&&紧张',
+    '小强++核心++没有'
 ];
 var dataVersion = '20200426（' + wordsArray.length + '）';

@@ -45,11 +45,18 @@ function run() //检测敏感词
     for (i in wordsArray) {
         if (wordsArray[i].includes('#')) continue;
         else if (wordsArray[i].includes('&&')) {
-
             var word1 = wordsArray[i].split('&&')[0];
             var word2 = wordsArray[i].split('&&')[1];
             if (userWords.includes(word1) && userWords.includes(word2)) {
                 censoredWords.push(word1 + '+' + word2);
+            }
+        }
+        else if (wordsArray[i].includes('++')) {
+            var word1 = wordsArray[i].split('++')[0];
+            var word2 = wordsArray[i].split('++')[1];
+            var word3 = wordsArray[i].split('++')[2];
+            if (userWords.includes(word1) && userWords.includes(word2) && userWords.includes(word3)) {
+                censoredWords.push(word1 + '+' + word2 + '+' + word3);
             }
         }
         else {
