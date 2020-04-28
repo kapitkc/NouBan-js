@@ -480,6 +480,15 @@ var wordsArray = [
     'xi总',
     '习和平',
     '李二&&紧张',
-    '小强++核心++没有'
+    '小强++核心++没有',
+    '皿煮',
+    '灭火器',
+    '政治光谱',
+    '进干',
+    '绝食抗议',
+    '习&&表弟',
+    '乳包',
+    '辱包',
+    '不厚'
 ];
-var dataVersion = '20200426（' + wordsArray.length + '）';
+var dataVersion = '20200428（' + wordsArray.length + '）';
