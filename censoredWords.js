@@ -489,6 +489,12 @@ var wordsArray = [
     '习&&表弟',
     '乳包',
     '辱包',
-    '不厚'
+    '不厚',
+    '人权组织',
+    '失业潮',
+    '倒逼改革',
+    '失业潮',
+    '人民公敌',
+    '上有所好'
 ];
-var dataVersion = '20200428（' + wordsArray.length + '）';
+var dataVersion = '20200501（' + wordsArray.length + '）';
