@@ -495,6 +495,11 @@ var wordsArray = [
     '倒逼改革',
     '失业潮',
     '人民公敌',
-    '上有所好'
+    '上有所好',
+    '江&&嗝屁',
+    '习教父',
+    '自愿为奴',
+    '中销',
+    '青年节'
 ];
-var dataVersion = '20200501（' + wordsArray.length + '）';
+var dataVersion = '20200504（' + wordsArray.length + '）';
