@@ -500,6 +500,11 @@ var wordsArray = [
     '习教父',
     '自愿为奴',
     '中销',
-    '青年节'
+    '青年节',
+    'gretathunberg',
+    '学生&&tank',
+    '黎瑞刚',
+    '王敏',
+    '彩包'
 ];
-var dataVersion = '20200504（' + wordsArray.length + '）';
+var dataVersion = '20200507（' + wordsArray.length + '）';
