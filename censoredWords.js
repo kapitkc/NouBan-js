@@ -68,7 +68,7 @@ var wordsArray = [
     'xdd',
     'xidd',
     'xidad',
-    'xdada',
+    'dada',
     '维尼',
     'weini',
     'winnie',
@@ -510,6 +510,7 @@ var wordsArray = [
     'p2p&&爆雷',
     '上坊',
     '文规',
+    '问鬼',
     'wengui',
     '地缘政治',
     '大跃进'
