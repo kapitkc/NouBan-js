@@ -517,6 +517,12 @@ var wordsArray = [
     '张雪忠',
     '宪政',
     '北京&&血色',
-    '陈冬'
+    '陈冬',
+    '季风书园',
+    '独立中文笔会',
+    'po墨',
+    '泼mo',
+    'pomo',
+    '财阀治国'
 ];
 var dataVersion = '20200513（' + wordsArray.length + '）';
