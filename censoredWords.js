@@ -513,6 +513,10 @@ var wordsArray = [
     '问鬼',
     'wengui',
     '地缘政治',
-    '大跃进'
+    '大跃进',
+    '张雪忠',
+    '宪政',
+    '北京&&血色',
+    '陈冬'
 ];
-var dataVersion = '20200510（' + wordsArray.length + '）';
+var dataVersion = '20200513（' + wordsArray.length + '）';
