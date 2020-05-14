@@ -87,10 +87,13 @@ function run() //检测敏感词
     for (i in tempArray2) {
         if (userWordsPin.includes(tempArray2[i])) {
             var index = userWordsPin.indexOf(tempArray2[i]);
-            censoredWords.push(userWords.substring(index, index + 2));
+            if (! whiteList.includes(userWords.substring(index, index + 2))) {
+                censoredWords.push(userWords.substring(index, index + 2));
+            }
+            
         }
     }
-
+     
     if (censoredWords.length == 0) {
         x.innerHTML = '暂未匹配到敏感词';
     }
