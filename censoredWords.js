@@ -348,7 +348,7 @@ var wordsArray = [
     '蚊g',
     '吻g',
     '任志强',
-    '路德',
+    '#路德',
     '羽卒',
     '膜包',
     '肿锅',
@@ -525,9 +525,15 @@ var wordsArray = [
     'pomo',
     '财阀治国',
     '江&&架空',
-    'pxj'
+    'pxj',
+    'li强',
+    '倒行逆施',
+    'ply',
+    '第一夫人',
+    '丽媛',
+    '他的国'
 ];
-var dataVersion = '20200514（' + wordsArray.length + '）';
+var dataVersion = '20200516（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
