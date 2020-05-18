@@ -130,7 +130,8 @@ var wordsArray = [
     'nytimes',
     '景云里',
     '法轮功',
-    '送中占中',
+    '#送中',
+    '占中',
     '港警',
     '曱甴',
     '五大诉求',
@@ -331,7 +332,7 @@ var wordsArray = [
     '#哀悼',
     '#黑白',
     '古月',
-    '作秀',
+    '#作秀',
     '疫情&&失业',
     '习像',
     '亚洲周刊',
@@ -531,9 +532,13 @@ var wordsArray = [
     'ply',
     '第一夫人',
     '丽媛',
-    '他的国'
+    '他的国',
+    '包某',
+    '好大喜功',
+    '游行',
+    '摩门教'
 ];
-var dataVersion = '20200516（' + wordsArray.length + '）';
+var dataVersion = '20200518（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
