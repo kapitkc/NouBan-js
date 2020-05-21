@@ -154,6 +154,8 @@ var wordsArray = [
     '8的平方',
     '八的平方',
     '进p',
+    '近p',
+    '堇p',
     '撒传单',
     '麻麻',
     '七3',
@@ -550,9 +552,12 @@ var wordsArray = [
     '习胖',
     '习三胖',
     '露宪',
-    '被旅游'
+    '被旅游',
+    '一带一路',
+    'sabi',
+    '台湾国'
 ];
-var dataVersion = '20.05.19（' + wordsArray.length + '）';
+var dataVersion = '20.05.21（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
