@@ -555,9 +555,16 @@ var wordsArray = [
     '被旅游',
     '一带一路',
     'sabi',
-    '台湾国'
+    '台湾国',
+    '支国',
+    '走家人',
+    '人民代表大会',
+    '广场',
+    '团系',
+    '李相爷',
+    '不忘初心&&牢记使命'
 ];
-var dataVersion = '20.05.21（' + wordsArray.length + '）';
+var dataVersion = '20.05.23（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
