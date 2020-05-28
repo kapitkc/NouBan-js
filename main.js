@@ -83,7 +83,7 @@ function run() //检测敏感词
         }
     }
 
-    var tempArray2 = ['xj', 'jp', '刁j', '叼j', '远p']
+    var tempArray2 = ['xj', 'jp', '刁j', '叼j', '远p', 'x银']
     for (i in tempArray2) {
         if (userWordsPin.includes(tempArray2[i])) {
             var index = userWordsPin.indexOf(tempArray2[i]);
