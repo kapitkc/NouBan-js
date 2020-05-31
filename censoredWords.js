@@ -164,7 +164,7 @@ var wordsArray = [
     '怹',
     '宪章',
     '丽卡酱',
-    '形同虚设',
+    '#形同虚设',
     '支那',
     '枝那',
     '支纳',
@@ -174,6 +174,7 @@ var wordsArray = [
     '不能不明白',
     'doyouhearthepeoplesing',
     '习&&面具',
+    'xi&&面具',
     '钟意&&5块',
     '北京&&学生',
     '江&&过世',
@@ -581,9 +582,13 @@ var wordsArray = [
     '习&&人头',
     'xi&&人头',
     '习&&头像',
-    'xi&&头像' 
+    'xi&&头像',
+    '国安法',
+    '中堂大人',
+    '杀医',
+    'bigda'
 ];
-var dataVersion = '20.05.28（' + wordsArray.length + '）';
+var dataVersion = '20.05.31（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
