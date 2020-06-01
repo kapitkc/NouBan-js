@@ -586,9 +586,16 @@ var wordsArray = [
     '国安法',
     '中堂大人',
     '杀医',
-    'bigda'
+    'bigda',
+    '低端人口',
+    '转型正义',
+    '毕赣&&生日',
+    '学生&&祷告',
+    '螳臂当车',
+    '螳臂挡车',
+    'tankman'
 ];
-var dataVersion = '20.05.31（' + wordsArray.length + '）';
+var dataVersion = '20.06.01（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
