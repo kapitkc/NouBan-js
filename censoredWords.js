@@ -216,6 +216,7 @@ var wordsArray = [
     '克强',
     '薄熙来',
     '岐山',
+    '山支山',
     '应书记',
     '某贵',
     '春蕾',
@@ -579,6 +580,7 @@ var wordsArray = [
     '胡鞍钢',
     '黑习',
     '一国两制',
+    '一国一制',
     '习&&人头',
     'xi&&人头',
     '习&&头像',
@@ -593,9 +595,13 @@ var wordsArray = [
     '学生&&祷告',
     '螳臂当车',
     '螳臂挡车',
-    'tankman'
+    'tankman',
+    'tank人',
+    'tank&&北京',
+    '贵支',
+    '明天'
 ];
-var dataVersion = '20.06.01（' + wordsArray.length + '）';
+var dataVersion = '20.06.03（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
