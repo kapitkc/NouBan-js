@@ -599,9 +599,11 @@ var wordsArray = [
     'tank人',
     'tank&&北京',
     '贵支',
-    '明天'
+    '#明天',
+    '今天',
+    '捧胡'
 ];
-var dataVersion = '20.06.03（' + wordsArray.length + '）';
+var dataVersion = '20.06.04（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
