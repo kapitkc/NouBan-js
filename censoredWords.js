@@ -600,10 +600,12 @@ var wordsArray = [
     'tank&&北京',
     '贵支',
     '#明天',
-    '今天',
+    '#今天',
+    '#昨天',
+    '纪念',
     '捧胡'
 ];
-var dataVersion = '20.06.04（' + wordsArray.length + '）';
+var dataVersion = '20.06.07（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
