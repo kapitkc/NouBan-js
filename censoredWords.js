@@ -603,9 +603,11 @@ var wordsArray = [
     '#今天',
     '#昨天',
     '纪念',
-    '捧胡'
+    '捧胡',
+    '地摊',
+    '山达基'
 ];
-var dataVersion = '20.06.07（' + wordsArray.length + '）';
+var dataVersion = '20.06.09（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
