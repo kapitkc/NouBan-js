@@ -100,6 +100,7 @@ var wordsArray = [
     '倒习',
     '习卒',
     '习垃圾',
+    '习弱智',
     '虫合',
     '蛤蛤',
     '长者',
@@ -637,9 +638,13 @@ var wordsArray = [
     '梁艳萍',
     '陈玫',
     '蔡伟',
-    '端点星'
+    '端点星',
+    '积恶成习',
+    '高华',
+    '徐晓冬',
+    '徐晓东'
 ];
-var dataVersion = '20.06.22（' + wordsArray.length + '）';
+var dataVersion = '20.06.25（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
