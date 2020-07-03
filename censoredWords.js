@@ -655,9 +655,22 @@ var wordsArray = [
     '特权阶级',
     '要被消灭了',
     '350亿',
-    '丧事喜办'
+    '丧事喜办',
+    '少妇白洁风',
+    '习&&蟑螂',
+    'xi&&蟑螂',
+    '习&&失败',
+    'xi&&失败',
+    '人权问题',
+    '党首',
+    '南方公园',
+    'southpark',
+    '一孩国度',
+    '我们的青春在台湾',
+    '西藏七年',
+    '西藏7年'
 ];
-var dataVersion = '20.06.30（' + wordsArray.length + '）';
+var dataVersion = '20.07.03（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
