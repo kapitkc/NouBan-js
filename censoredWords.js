@@ -294,6 +294,7 @@ var wordsArray = [
     '文贵',
     '初中毕业',
     '初中肄业',
+    '小学肄业',
     '奸虐',
     '连任',
     '国妖',
@@ -668,9 +669,21 @@ var wordsArray = [
     '一孩国度',
     '我们的青春在台湾',
     '西藏七年',
-    '西藏7年'
+    '西藏7年',
+    '老江',
+    '老习',
+    '许章润',
+    '何频',
+    'coloredsands',
+    '胡编生成器',
+    '李希',
+    '许xx',
+    '子弹滞销',
+    '批斗大会',
+    '三代目',
+    '江胡'
 ];
-var dataVersion = '20.07.03（' + wordsArray.length + '）';
+var dataVersion = '20.07.09（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
