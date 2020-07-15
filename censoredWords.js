@@ -508,6 +508,7 @@ var wordsArray = [
     '习总',
     'xi总',
     'x总',
+    '洗总',
     '习和平',
     '李二&&紧张',
     '小强++核心++没有',
@@ -681,9 +682,12 @@ var wordsArray = [
     '子弹滞销',
     '批斗大会',
     '三代目',
-    '江胡'
+    '江胡',
+    '闫丽梦',
+    '齐奥塞斯库',
+    '揽炒'
 ];
-var dataVersion = '20.07.09（' + wordsArray.length + '）';
+var dataVersion = '20.07.15（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
