@@ -90,9 +90,8 @@ var wordsArray = [
     '刁远',
     'xjp',
     'xijin',
-    'jinping',
-    'jingping',
-    'jinpin',
+    'jinp',
+    'jingp',
     'xijing',
     '翠',
     'cui',
@@ -183,6 +182,7 @@ var wordsArray = [
     '北京&&学生',
     '江&&过世',
     '江&&去了',
+    '江&&挂了',
     '翻墙',
     'VPN',
     '李鹏',
@@ -440,7 +440,7 @@ var wordsArray = [
     '岳日斤',
     '丘山日斤',
     '余浚聪',
-    '沈梦雨',
+    '梦雨',
     '顾佳悦',
     '张圣业',
     '张耀祖',
@@ -684,10 +684,19 @@ var wordsArray = [
     '三代目',
     '江胡',
     '闫丽梦',
+    'yanlimeng',
     '齐奥塞斯库',
-    '揽炒'
+    '揽炒',
+    '荃湾',
+    '习爷爷',
+    '江爷爷',
+    '胡爷爷',
+    '邓爷爷',
+    '滥用权力',
+    '习&&洋相',
+    'lifeanddeathinshanghai'
 ];
-var dataVersion = '20.07.15（' + wordsArray.length + '）';
+var dataVersion = '20.07.20（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
