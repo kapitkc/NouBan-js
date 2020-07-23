@@ -73,6 +73,8 @@ var wordsArray = [
     'dada',
     '维尼',
     'weini',
+    'wei尼',
+    '维ni',
     'winnie',
     '包砸',
     '总加速师',
@@ -694,7 +696,10 @@ var wordsArray = [
     '邓爷爷',
     '滥用权力',
     '习&&洋相',
-    'lifeanddeathinshanghai'
+    'lifeanddeathinshanghai',
+    '陈平',
+    '阿习',
+    '阿刁'
 ];
 var dataVersion = '20.07.20（' + wordsArray.length + '）';
 // 以下为白名单
