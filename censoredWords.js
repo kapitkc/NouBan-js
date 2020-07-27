@@ -699,9 +699,19 @@ var wordsArray = [
     'lifeanddeathinshanghai',
     '陈平',
     '阿习',
-    '阿刁'
+    '阿刁',
+    '围观改变中国',
+    '邪教头子',
+    '宇宙塑料人',
+    '堂弟&&赌博',
+    '堂弟&&洗钱',
+    '定尊',
+    '定于一尊',
+    '北戴河会议',
+    '习思想',
+    '习核心'
 ];
-var dataVersion = '20.07.20（' + wordsArray.length + '）';
+var dataVersion = '20.07.27（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
