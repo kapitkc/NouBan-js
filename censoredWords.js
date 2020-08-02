@@ -326,6 +326,7 @@ var wordsArray = [
     'urumuqi',
     'urumqi',
     '南方周末',
+    '新年致辞',
     '历史罪人',
     '浪费纳税人',
     '经济停摆',
@@ -709,9 +710,18 @@ var wordsArray = [
     '定于一尊',
     '北戴河会议',
     '习思想',
-    '习核心'
+    '习核心',
+    '习&&曝光',
+    '四大恶人',
+    '华为++离职++251',
+    '薄&&西来',
+    '魔法上网',
+    '挂梯子',
+    '季某',
+    '谷歌&&退出中国',
+    '四海翻腾'
 ];
-var dataVersion = '20.07.27（' + wordsArray.length + '）';
+var dataVersion = '20.08.02（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
