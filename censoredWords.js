@@ -719,9 +719,20 @@ var wordsArray = [
     '挂梯子',
     '季某',
     '谷歌&&退出中国',
-    '四海翻腾'
+    '四海翻腾',
+    '薄&&科普',
+    '余虹',
+    '余茂春',
+    '动乱',
+    '习万岁',
+    '习&&生日',
+    'xi&&生日',
+    '求&&梯子',
+    '月冰',
+    '习&&调查',
+    '习&&被查'
 ];
-var dataVersion = '20.08.02（' + wordsArray.length + '）';
+var dataVersion = '20.08.07（' + wordsArray.length + '）';
 // 以下为白名单
 var whiteList = [
     '戏精',
